@@ -4,6 +4,7 @@ import Logs.ReadAndWriteLog;
 
 public class SunnyWeather implements WeatherState {
 
+
     @Override
     public void getWeatherStatus() throws InterruptedException {
 
@@ -11,6 +12,7 @@ public class SunnyWeather implements WeatherState {
         Thread.sleep(2000);
 
     }
+
 }
 
 

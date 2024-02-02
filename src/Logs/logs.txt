@@ -1,4 +1,4 @@
-
+ 
 at : 2024-02-01T16:14:03.197511500   log  ->[ {  test} ]
 at : 2024-02-01T16:14:18.395641400   log  ->[ {   -- user START Simulation --} ]
 at : 2024-02-01T16:14:18.415645200   log  ->[ {  carCar A is created and ready } ]
@@ -9,19 +9,19 @@ at : 2024-02-01T16:14:20.449857300   log  ->[ {  carCar E is created and ready }
 at : 2024-02-01T16:14:20.960999200   log  ->[ {  stationStationA is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:14:21.464645200   log  ->[ {  stationStationB is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:14:21.968947500   log  ->[ {  stationStationC is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
-at : 2024-02-01T16:14:22.477571   log  ->[ {
+at : 2024-02-01T16:14:22.477571   log  ->[ {  
 } ]
 at : 2024-02-01T16:14:22.478379900   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:14:22.483368600   log  ->[ {  car Car{carId='123', carName='Car A'} arrived  in Station's queue StationA in : 2024-02-01T16:14:22.477571} ]
 at : 2024-02-01T16:14:22.485368800   log  ->[ {  the waiting time is  : 2 minutes} ]
 at : 2024-02-01T16:14:22.485368800   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:14:22.485368800   log  ->[ {
+at : 2024-02-01T16:14:22.485368800   log  ->[ {  
 } ]
 at : 2024-02-01T16:14:22.486369700   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:14:22.486369700   log  ->[ {  car Car{carId='456', carName='Car B'} arrived  in Station's queue StationA in : 2024-02-01T16:14:22.485368800} ]
 at : 2024-02-01T16:14:22.486369700   log  ->[ {  the waiting time is  : 4 minutes} ]
 at : 2024-02-01T16:14:22.487369400   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:14:22.487369400   log  ->[ {
+at : 2024-02-01T16:14:22.487369400   log  ->[ {  
 } ]
 at : 2024-02-01T16:14:22.487369400   log  ->[ {  the cars after  Car C can't wait in this line because this station takes time more than 15 minutes} ]
 at : 2024-02-01T16:14:23.503510700   log  ->[ {   } ]
@@ -47,19 +47,19 @@ at : 2024-02-01T16:14:45.029329700   log  ->[ {  carCar E is created and ready }
 at : 2024-02-01T16:14:45.538328900   log  ->[ {  stationStationA is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:14:46.052481500   log  ->[ {  stationStationB is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:14:46.560243800   log  ->[ {  stationStationC is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
-at : 2024-02-01T16:14:47.073224   log  ->[ {
+at : 2024-02-01T16:14:47.073224   log  ->[ {  
 } ]
 at : 2024-02-01T16:14:47.073699500   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:14:47.077699   log  ->[ {  car Car{carId='123', carName='Car A'} arrived  in Station's queue StationA in : 2024-02-01T16:14:47.073224} ]
 at : 2024-02-01T16:14:47.079763800   log  ->[ {  the waiting time is  : 2 minutes} ]
 at : 2024-02-01T16:14:47.079763800   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:14:47.080700100   log  ->[ {
+at : 2024-02-01T16:14:47.080700100   log  ->[ {  
 } ]
 at : 2024-02-01T16:14:47.080700100   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:14:47.080700100   log  ->[ {  car Car{carId='456', carName='Car B'} arrived  in Station's queue StationA in : 2024-02-01T16:14:47.080700100} ]
 at : 2024-02-01T16:14:47.081700300   log  ->[ {  the waiting time is  : 4 minutes} ]
 at : 2024-02-01T16:14:47.081700300   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:14:47.081700300   log  ->[ {
+at : 2024-02-01T16:14:47.081700300   log  ->[ {  
 } ]
 at : 2024-02-01T16:14:47.082700300   log  ->[ {  the cars after  Car C can't wait in this line because this station takes time more than 15 minutes} ]
 at : 2024-02-01T16:14:48.095296500   log  ->[ {   } ]
@@ -124,19 +124,19 @@ at : 2024-02-01T16:15:32.129624600   log  ->[ {  Progress complete!} ]
 at : 2024-02-01T16:15:32.176813500   log  ->[ {  Progress complete!} ]
 at : 2024-02-01T16:15:34.142015   log  ->[ {  the  Car B  is gone } ]
 at : 2024-02-01T16:15:34.189737600   log  ->[ {  the  Car A  is gone } ]
-at : 2024-02-01T16:15:37.196540600   log  ->[ {
+at : 2024-02-01T16:15:37.196540600   log  ->[ {  
 } ]
 at : 2024-02-01T16:15:37.197390500   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:15:37.197390500   log  ->[ {  car Car{carId='789', carName='Car C'} arrived  in Station's queue StationB in : 2024-02-01T16:15:37.196358800} ]
 at : 2024-02-01T16:15:37.197390500   log  ->[ {  the waiting time is  : 2 minutes} ]
 at : 2024-02-01T16:15:37.198380500   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:15:37.198380500   log  ->[ {
+at : 2024-02-01T16:15:37.198380500   log  ->[ {  
 } ]
 at : 2024-02-01T16:15:37.198380500   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:15:37.199437100   log  ->[ {  car Car{carId='101', carName='Car D'} arrived  in Station's queue StationB in : 2024-02-01T16:15:37.198380500} ]
 at : 2024-02-01T16:15:37.199437100   log  ->[ {  the waiting time is  : 4 minutes} ]
 at : 2024-02-01T16:15:37.199437100   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:15:37.199437100   log  ->[ {
+at : 2024-02-01T16:15:37.199437100   log  ->[ {  
 } ]
 at : 2024-02-01T16:15:37.200462700   log  ->[ {  the cars after  Car E can't wait in this line because this station takes time more than 15 minutes} ]
 at : 2024-02-01T16:15:38.205664200   log  ->[ {   } ]
@@ -201,7 +201,7 @@ at : 2024-02-01T16:16:22.263941700   log  ->[ {  Progress complete!} ]
 at : 2024-02-01T16:16:22.263941700   log  ->[ {  Progress complete!} ]
 at : 2024-02-01T16:16:24.280226800   log  ->[ {  the  Car C  is gone } ]
 at : 2024-02-01T16:16:24.280226800   log  ->[ {  the  Car D  is gone } ]
-at : 2024-02-01T16:16:27.284821600   log  ->[ {
+at : 2024-02-01T16:16:27.284821600   log  ->[ {  
 } ]
 at : 2024-02-01T16:16:27.285851300   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:16:27.285851300   log  ->[ {  car Car{carId='112', carName='Car E'} arrived  in Station's queue StationC in : 2024-02-01T16:16:27.284821600} ]
@@ -247,19 +247,19 @@ at : 2024-02-01T16:17:27.572841100   log  ->[ {  carCar E is created and ready }
 at : 2024-02-01T16:17:28.083767100   log  ->[ {  stationStationA is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:17:28.587435500   log  ->[ {  stationStationB is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:17:29.092818900   log  ->[ {  stationStationC is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
-at : 2024-02-01T16:17:29.601365600   log  ->[ {
+at : 2024-02-01T16:17:29.601365600   log  ->[ {  
 } ]
 at : 2024-02-01T16:17:29.601365600   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:17:29.606366500   log  ->[ {  car Car{carId='123', carName='Car A'} arrived  in Station's queue StationA in : 2024-02-01T16:17:29.601365600} ]
 at : 2024-02-01T16:17:29.608367100   log  ->[ {  the waiting time is  : 2 minutes} ]
 at : 2024-02-01T16:17:29.608367100   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:17:29.609367   log  ->[ {
+at : 2024-02-01T16:17:29.609367   log  ->[ {  
 } ]
 at : 2024-02-01T16:17:29.609478600   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:17:29.609478600   log  ->[ {  car Car{carId='456', carName='Car B'} arrived  in Station's queue StationA in : 2024-02-01T16:17:29.609367} ]
 at : 2024-02-01T16:17:29.609478600   log  ->[ {  the waiting time is  : 4 minutes} ]
 at : 2024-02-01T16:17:29.610367600   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:17:29.610367600   log  ->[ {
+at : 2024-02-01T16:17:29.610367600   log  ->[ {  
 } ]
 at : 2024-02-01T16:17:29.610367600   log  ->[ {  the cars after  Car C can't wait in this line because this station takes time more than 15 minutes} ]
 at : 2024-02-01T16:17:30.613263400   log  ->[ {   } ]
@@ -293,19 +293,19 @@ at : 2024-02-01T16:18:08.175867600   log  ->[ {   } ]
 at : 2024-02-01T16:18:10.190996700   log  ->[ {   the car Car{carId='123', carName='Car A'} in Location 2 in  StationA is charging ... } ]
 at : 2024-02-01T16:18:14.565726300   log  ->[ {  Progress complete!} ]
 at : 2024-02-01T16:18:16.572855   log  ->[ {  the  Car A  is gone } ]
-at : 2024-02-01T16:18:19.576156900   log  ->[ {
+at : 2024-02-01T16:18:19.576156900   log  ->[ {  
 } ]
 at : 2024-02-01T16:18:19.576156900   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:18:19.577072800   log  ->[ {  car Car{carId='789', carName='Car C'} arrived  in Station's queue StationB in : 2024-02-01T16:18:19.576156900} ]
 at : 2024-02-01T16:18:19.577263500   log  ->[ {  the waiting time is  : 2 minutes} ]
 at : 2024-02-01T16:18:19.577263500   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:18:19.577263500   log  ->[ {
+at : 2024-02-01T16:18:19.577263500   log  ->[ {  
 } ]
 at : 2024-02-01T16:18:19.578073700   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:18:19.578073700   log  ->[ {  car Car{carId='101', carName='Car D'} arrived  in Station's queue StationB in : 2024-02-01T16:18:19.577263500} ]
 at : 2024-02-01T16:18:19.578482200   log  ->[ {  the waiting time is  : 4 minutes} ]
 at : 2024-02-01T16:18:19.578482200   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:18:19.579073500   log  ->[ {
+at : 2024-02-01T16:18:19.579073500   log  ->[ {  
 } ]
 at : 2024-02-01T16:18:19.579073500   log  ->[ {  the cars after  Car E can't wait in this line because this station takes time more than 15 minutes} ]
 at : 2024-02-01T16:18:20.579995600   log  ->[ {   } ]
@@ -325,19 +325,19 @@ at : 2024-02-01T16:21:50.035903800   log  ->[ {  carCar E is created and ready }
 at : 2024-02-01T16:21:50.548076100   log  ->[ {  stationStationA is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:21:51.056440900   log  ->[ {  stationStationB is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:21:51.566673600   log  ->[ {  stationStationC is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
-at : 2024-02-01T16:21:52.077159200   log  ->[ {
+at : 2024-02-01T16:21:52.077159200   log  ->[ {  
 } ]
 at : 2024-02-01T16:21:52.078185200   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:21:52.082449600   log  ->[ {  car Car{carId='123', carName='Car A'} arrived  in Station's queue StationA in : 2024-02-01T16:21:52.077159200} ]
 at : 2024-02-01T16:21:52.084626500   log  ->[ {  the waiting time is  : 2 minutes} ]
 at : 2024-02-01T16:21:52.085186200   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:21:52.085186200   log  ->[ {
+at : 2024-02-01T16:21:52.085186200   log  ->[ {  
 } ]
 at : 2024-02-01T16:21:52.085186200   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:21:52.085186200   log  ->[ {  car Car{carId='456', carName='Car B'} arrived  in Station's queue StationA in : 2024-02-01T16:21:52.085186200} ]
 at : 2024-02-01T16:21:52.086190500   log  ->[ {  the waiting time is  : 4 minutes} ]
 at : 2024-02-01T16:21:52.086190500   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:21:52.086190500   log  ->[ {
+at : 2024-02-01T16:21:52.086190500   log  ->[ {  
 } ]
 at : 2024-02-01T16:21:52.087186700   log  ->[ {  the cars after  Car C can't wait in this line because this station takes time more than 15 minutes} ]
 at : 2024-02-01T16:21:53.101775900   log  ->[ {   } ]
@@ -357,19 +357,19 @@ at : 2024-02-01T16:45:08.567804700   log  ->[ {  carCar E is created and ready }
 at : 2024-02-01T16:45:09.081253300   log  ->[ {  stationStationA is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:45:09.589166600   log  ->[ {  stationStationB is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:45:10.101034800   log  ->[ {  stationStationC is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
-at : 2024-02-01T16:45:10.611224500   log  ->[ {
+at : 2024-02-01T16:45:10.611224500   log  ->[ {  
 } ]
 at : 2024-02-01T16:45:10.612226700   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:45:10.617253200   log  ->[ {  car Car{carId='123', carName='Car A'} arrived  in Station's queue StationA in : 2024-02-01T16:45:10.611224500} ]
 at : 2024-02-01T16:45:10.619262100   log  ->[ {  the waiting time is  : 2 minutes} ]
 at : 2024-02-01T16:45:10.619262100   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:45:10.620252   log  ->[ {
+at : 2024-02-01T16:45:10.620252   log  ->[ {  
 } ]
 at : 2024-02-01T16:45:10.620252   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:45:10.620252   log  ->[ {  car Car{carId='456', carName='Car B'} arrived  in Station's queue StationA in : 2024-02-01T16:45:10.620252} ]
 at : 2024-02-01T16:45:10.621252300   log  ->[ {  the waiting time is  : 4 minutes} ]
 at : 2024-02-01T16:45:10.621252300   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:45:10.621252300   log  ->[ {
+at : 2024-02-01T16:45:10.621252300   log  ->[ {  
 } ]
 at : 2024-02-01T16:45:10.622252300   log  ->[ {  the cars after  Car C can't wait in this line because this station takes time more than 15 minutes} ]
 at : 2024-02-01T16:45:16.042613800   log  ->[ {   -- user START Simulation --} ]
@@ -387,19 +387,19 @@ at : 2024-02-01T16:45:22.322085400   log  ->[ {  carCar E is created and ready }
 at : 2024-02-01T16:45:22.833203600   log  ->[ {  stationStationA is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:45:23.344113100   log  ->[ {  stationStationB is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
 at : 2024-02-01T16:45:23.855958100   log  ->[ {  stationStationC is created  ready with these locations : [{, name='Location 1'}, {, name='Location 2'}, {, name='Location 3'}]} ]
-at : 2024-02-01T16:45:24.369586   log  ->[ {
+at : 2024-02-01T16:45:24.369586   log  ->[ {  
 } ]
 at : 2024-02-01T16:45:24.369586   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:45:24.375586200   log  ->[ {  car Car{carId='123', carName='Car A'} arrived  in Station's queue StationA in : 2024-02-01T16:45:24.369586} ]
 at : 2024-02-01T16:45:24.378167400   log  ->[ {  the waiting time is  : 2 minutes} ]
 at : 2024-02-01T16:45:24.379177200   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:45:24.379177200   log  ->[ {
+at : 2024-02-01T16:45:24.379177200   log  ->[ {  
 } ]
 at : 2024-02-01T16:45:24.380168100   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:45:24.380168100   log  ->[ {  car Car{carId='456', carName='Car B'} arrived  in Station's queue StationA in : 2024-02-01T16:45:24.379177200} ]
 at : 2024-02-01T16:45:24.380168100   log  ->[ {  the waiting time is  : 4 minutes} ]
 at : 2024-02-01T16:45:24.381168900   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:45:24.381168900   log  ->[ {
+at : 2024-02-01T16:45:24.381168900   log  ->[ {  
 } ]
 at : 2024-02-01T16:45:24.382182700   log  ->[ {  the cars after  Car C can't wait in this line because this station takes time more than 15 minutes} ]
 at : 2024-02-01T16:45:25.390285700   log  ->[ {   } ]
@@ -414,13 +414,13 @@ at : 2024-02-01T16:45:27.398559500   log  ->[ {   } ]
 at : 2024-02-01T16:45:27.398559500   log  ->[ {   } ]
 at : 2024-02-01T16:45:28.413615500   log  ->[ {  remaining amount in slot for < Location 1 > in  StationA is 80.0} ]
 at : 2024-02-01T16:45:28.413615500   log  ->[ {  remaining amount in slot for < Location 3 > in  StationA is 80.0} ]
-at : 2024-02-01T16:46:26.772066900   log  ->[ {
+at : 2024-02-01T16:46:26.772066900   log  ->[ {  
 } ]
 at : 2024-02-01T16:46:26.779060100   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:46:26.784059800   log  ->[ {  car Car{carId='123', carName='Car A'} arrived  in Station's queue StationA in : 2024-02-01T16:46:26.771056100} ]
 at : 2024-02-01T16:46:26.788061400   log  ->[ {  the waiting time is  : 2 minutes} ]
 at : 2024-02-01T16:46:26.788061400   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
-at : 2024-02-01T16:46:26.789068300   log  ->[ {
+at : 2024-02-01T16:46:26.789068300   log  ->[ {  
 } ]
 at : 2024-02-01T16:46:26.789068300   log  ->[ {  - - - - - - - - - - - - - - - - --  } ]
 at : 2024-02-01T16:46:26.789068300   log  ->[ {  car Car{carId='456', carName='Car B'} arrived  in Station's queue StationA in : 2024-02-01T16:46:26.789068300} ]

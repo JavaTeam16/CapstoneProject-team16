@@ -55,7 +55,7 @@ public class Car implements Comparable{
                 '}';
     }
 
-    //this method used to allocating cars into the station's  queue
+    //this method used to allocating cars into the station's queue
     @Override
     public int compareTo(Object o) {
         return this.arriveTime.compareTo( ((Car) o ).arriveTime   );

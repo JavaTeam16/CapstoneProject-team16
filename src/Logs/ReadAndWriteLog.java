@@ -4,7 +4,7 @@ import java.io.*;
 import java.time.LocalDateTime;
 
 public class ReadAndWriteLog {
-    static String  fileName = ".\\src\\Logs\\logs.txt";
+       static String  fileName = ".\\src\\Logs\\logs.txt";
     public static  void writeLog( String message){
         String log  =  "at : "+ LocalDateTime.now()  + "   log  ->[ {  "+message+ "} ]"   ;
         System.out.println(log);

@@ -12,7 +12,7 @@ public class ElectricalBatteryTypeB implements Battery {
     }
 
     public ElectricalBatteryTypeB(double remainingCharge) {
-        this.remainingCharge = remainingCharge;
+    this.remainingCharge = remainingCharge;
     }
 
 
